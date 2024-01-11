@@ -1,4 +1,4 @@
-import { useState } from "react";
+//import { useState } from "react";
 import FontSelector from "./components/FontSelector";
 import Note from "./components/Note";
 import "./styles.css";
